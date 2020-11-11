@@ -1,0 +1,64 @@
+* {
+    text-decoration-color: white;
+    color: white;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url('https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2020-11/gps_iii-4_launch_streak-spacex.jpg?itok=uoyuvFBm');
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    border: none;
+    box-shadow: none;
+}
+h1 {
+    margin-right: 50px;
+    margin-bottom: 50px
+}
+h3 {
+    margin-right: 20px;
+    margin-top: 6px;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    width: 100vw;
+    height: 8vh;
+    position: fixed;
+    top: 0;
+    flex-direction: row;
+    background-image: inherit;
+    border: none;
+    box-shadow: none;
+}
+.text-box {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-image: initial;
+    border: none;
+    box-shadow: none;
+    margin-top: 500px;
+    margin-left: 220px;
+}
+h1 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    background-image: initial;
+    border: none;
+    box-shadow: none;
+}
+button {
+    height: 50px;
+    width: 100px;
+    background-image: initial;
+    border: none;
+    box-shadow: none;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 300px;
+}
